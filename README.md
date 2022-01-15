@@ -2,7 +2,7 @@ Hello, my name is Max.
 pleased to meet you
 
 install
-
+that we come to give away Because we want you to play with me 👍( ͡❛ ͜ʖ ͡❛👍)
 
 pip3 install timeago
 pip3 install akad
